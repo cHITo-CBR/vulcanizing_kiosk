@@ -1,0 +1,12 @@
+Incoming data: {"services":[{"name":"Pressure Check","price":50,"quantity":1}],"total":50}
+Services data: Array
+(
+    [0] => Array
+        (
+            [name] => Pressure Check
+            [price] => 50
+            [quantity] => 1
+        )
+
+)
+
